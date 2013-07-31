@@ -1,0 +1,10 @@
+b9387c16e8b89826794f10491dcacfea *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+e03256209839c813772e54196b3703aa *R/boot_autocov.R
+c01289c52254a77aaff1915fa828a208 *R/boot_spec.R
+867463a16fdfceb3cf60f2528b94468e *R/redraw.R
+cf401c2fb257cdfbdb519f2e935bd684 *R/statistic.R
+e71972dc290f6d881f0b3ed5d3bb1bbb *man/boot_autocov.Rd
+44427c2d607f7b1a38756c75fdbbd528 *man/boot_spec.Rd
+1ead571c324edbbc1487c3029801ac6d *man/redraw.Rd
+713afca7e69805f50c92bbd080d27311 *man/statistic.Rd
